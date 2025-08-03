@@ -35,4 +35,6 @@ int32_t main() {
         int n; cin >>  n;
         cout << go(n) << nl;
     }
+
 }
+// https://cses.fi/problemset/task/1713
