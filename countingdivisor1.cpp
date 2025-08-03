@@ -34,4 +34,6 @@ int32_t main() {
         int x; cin >> x;
         cout << d[x] << nl;
     }
+
 }
+// https://cses.fi/problemset/task/1713
